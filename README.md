@@ -12,7 +12,7 @@ Use Issues if there are bugs or problems with the client or server. For feature 
 
 # Comparison
 
-| Boarclip | Other Apps |
+| Boardclip | Other Apps |
 | --- | --- |
 | Quick setup | Complicated guides and configuration files |
 | Secure | Insecure |
