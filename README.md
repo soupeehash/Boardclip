@@ -1,5 +1,6 @@
 ![Boarclip main icon](https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png){style="display: block; margin: 0 auto"}
-
+<img src="https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png"
+style="display: block; margin: 0 auto" />
 # Boardclip
 
 Boardclip is a cross-platform/multi-platform shared clipboard application to transfer data such as text between two or more computing devices. Cut, copy, or paste text from one device to another, whether it be a virtual machine-host, or client-server.
