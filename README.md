@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png"
+<img width="50%" src="https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png"
 </div>
 
 # Boardclip
