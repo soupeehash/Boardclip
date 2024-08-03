@@ -8,4 +8,4 @@ Boardclip is a cross-platform/multi-platform shared clipboard application to tra
 | --- | --- |
 | Quick setup | Complicated guides and configuration files |
 | Secure | Insecure |
-| Simple user interface | Complex interface |
+| Simple interface | Complex interface |
