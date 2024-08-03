@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png"
-align="center" style="display: block; margin: 0 auto"/>
+<center><img src="https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png"
+align="center" style="display: block; margin: 0 auto"/></center>
 
 # Boardclip
 
