@@ -1,4 +1,4 @@
-![Boarclip main icon](https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png "Boardclip main icon")
+![Boarclip main icon](https://raw.githubusercontent.com/soupeehash/Boardclip/main/icon-512.png#center "Boardclip main icon")
 
 # Boardclip
 
