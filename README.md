@@ -18,7 +18,8 @@ Use Issues if there are bugs or problems with the client or server. For feature 
 
 | Boardclip | Other Apps |
 | --- | --- |
+| Native | Browser-based |
 | Quick setup | Complicated guides and configuration files |
 | Secure | Insecure |
-| Simple interface | Complex interface |
+| Simple interface | Complex interface with more steps |
 
